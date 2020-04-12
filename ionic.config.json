@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-admob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
