@@ -1,5 +1,5 @@
 # ionic-react-admob
-Source Code example for Capacitor Admob in Ionic 5 and React
+Source Code example for Capacitor Admob in Ionic 5 and React. Full blogpost with detailed instruction and test available here - [Implement AdMob in Ionic React Capacitor Apps](https://enappd.com/blog/implement-admob-in-ionic-react-capacitor-apps/135/)
 
 
 
